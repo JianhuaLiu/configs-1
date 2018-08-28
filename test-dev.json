@@ -1,0 +1,20 @@
+{
+"name": "demo",
+"profiles": [
+"test"
+],
+"label": null,
+"version": "a7d6a366ca2d57e47e544731cad41d86f752b433",
+"state": null,
+"propertySources": [
+{
+"name": "https://github.com/JianhuaLiu/configs-1.git/demo-test.yml",
+"source": {
+"name": "fiona",
+"age": 28,
+"env": "test",
+"test":"dev"
+}
+}
+]
+}
