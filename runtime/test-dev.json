@@ -1,0 +1,8 @@
+{
+	"AppSettings": {
+		"ServerUrls.IPv4": "runtime-http://0.0.0.0:5000",
+		"ServerUrls.IPv6": "runtime-http://[::]:5000",
+		"Environment": "runtime-Dev",
+		"ConfigCenterUrl": "runtime-http://inspur.cfgcenter.com"
+	}
+}
